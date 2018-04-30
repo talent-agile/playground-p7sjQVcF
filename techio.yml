@@ -19,5 +19,5 @@ plan:
 - title: Linq
   statement: markdowns/08-linq.md
 - title: Regular Expressions
-  staetment: markdowns/09-regex.md
+  staetment: markdowns/09-regex-01.md
 
