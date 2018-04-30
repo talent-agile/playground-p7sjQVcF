@@ -19,5 +19,14 @@ plan:
 - title: Linq
   statement: markdowns/08-linq.md
 - title: Regular Expressions
-  staetment: markdowns/09-regex-01.md
-
+  statement: markdowns/09-regex-01.md
+- title: Regular Expressions - Groups
+  statement: markdowns/09-regex-02.md
+- title: Regular Expressions - Capture
+  statement: markdowns/09-regex-03.md
+projects:
+  linq:
+    root: /sources/linq
+    runner:
+      name: techio/dotnet-runner
+version: 1.1.0-dotnet-1.1-sdk-msbuild
