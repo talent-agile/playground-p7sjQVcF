@@ -1,4 +1,23 @@
-title: Simple C# Template
+title: Professional C# - Level 1
 plan:
-- title: C# Snippet
-  statement: statement.md
+- title: Introduction
+  statement: markdowns/00-introduction.md
+- title: C# Basics - Conditional Logic
+  statement: markdowns/04-logic.md
+- title: C# Basics - Numbers
+  statement: markdowns/04-numbers.md
+- title: C# Basics - Text & Encoding
+  statement: markdowns/04-text-encoding.md
+- title: C# Basics - Exceptions
+  statement: markdowns/04-exceptions.md
+- title: Classes - Equality
+  statement: markdowns/05-equality.md
+- title: Classes - Casting
+  statement: markdowns/05-casting.md
+- title: Collections
+  statement: markdowns/07-collections.md
+- title: Linq
+  statement: markdowns/08-linq.md
+- title: Regular Expressions
+  staetment: markdowns/09-regex.md
+
