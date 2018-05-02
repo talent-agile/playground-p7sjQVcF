@@ -5,7 +5,13 @@ plan:
 - title: C# Basics - Conditional Logic
   statement: markdowns/04-logic.md
 - title: C# Basics - Numbers
-  statement: markdowns/04-numbers.md
+  statement: markdowns/04-numbers-types.md
+- title: C# Basics - Numbers
+  statement: markdowns/04-numbers-overflow.md
+- title: C# Basics - Numbers
+  statement: markdowns/04-numbers-rounding.md
+- title: C# Basics - Numbers
+  statement: markdowns/04-numbers-parsing.md
 - title: C# Basics - Text & Encoding
   statement: markdowns/04-text-encoding.md
 - title: C# Basics - Exceptions
