@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "linq\Linq.csproj", "{6B38CC3F-2280-4507-A65A-C78C32FEABFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "linq\Linq.csproj", "{6B38CC3F-2280-4507-A65A-C78C32FEABFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Equality", "equality\Equality.csproj", "{128C67D4-D7DC-45F7-8CC7-3451F2C05EE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casting", "casting\Casting.csproj", "{F5B609A1-B42C-4E5B-B8E2-FCF06498AA94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6B38CC3F-2280-4507-A65A-C78C32FEABFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B38CC3F-2280-4507-A65A-C78C32FEABFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B38CC3F-2280-4507-A65A-C78C32FEABFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128C67D4-D7DC-45F7-8CC7-3451F2C05EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128C67D4-D7DC-45F7-8CC7-3451F2C05EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128C67D4-D7DC-45F7-8CC7-3451F2C05EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128C67D4-D7DC-45F7-8CC7-3451F2C05EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B609A1-B42C-4E5B-B8E2-FCF06498AA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B609A1-B42C-4E5B-B8E2-FCF06498AA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B609A1-B42C-4E5B-B8E2-FCF06498AA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B609A1-B42C-4E5B-B8E2-FCF06498AA94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

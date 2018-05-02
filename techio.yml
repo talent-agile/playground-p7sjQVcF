@@ -35,4 +35,24 @@ projects:
     root: /sources/linq
     runner:
       name: techio/dotnet-runner
-version: 1.1.0-dotnet-1.1-sdk-msbuild
+      version: 1.1.0-dotnet-1.1-sdk-msbuild
+  valuetypes:
+    root: /sources/valueyypes
+    runner:
+      name: techio/dotnet-runner
+      version: 1.1.0-dotnet-1.1-sdk-msbuild
+  exceptions:
+    root: /sources/exceptions
+    runner:
+      name: techio/dotnet-runner
+      version: 1.1.0-dotnet-1.1-sdk-msbuild
+  equality:
+    root: /sources/equality
+    runner:
+      name: techio/dotnet-runner
+      version: 1.1.0-dotnet-1.1-sdk-msbuild
+  casting:
+    root: /sources/casting
+    runner:
+      name: techio/dotnet-runner
+      version: 1.1.0-dotnet-1.1-sdk-msbuild
